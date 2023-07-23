@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Science: Theory, Algorithms and Applications"
 date:   2023-07-07 22:21:59 +00:00
-image: /images/IDSS.jpg
+image: /images/fig_arch.png
 categories: research
 author: "Leo Keselman"
 authors: "Yi Ma, Sebastian Morel-Balbi, Yue Xie, Man Chung Yue"

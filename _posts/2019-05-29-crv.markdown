@@ -9,4 +9,7 @@ authors: "Shujian Huang, Xinyu Dai"
 venue: "NJU NLP Group"
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+1. Revisiting several classic methods of image captioning (Show and Tell: A Neural Image Caption Generator, CVPR 2015, Meshed-Memory Transformer for Image Captioning, CVPR 2020)
+2. Investigating image description evaluation metrics（CLIPScore: A Reference-free Evaluation Metric for Image Captioning, EMNLP 2021， UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning, ACL 2021）
+3. Exploring the application of cross-modal pretraining in image captioning（Unified Vision-Language Pre-Training for Image Captioning and VQA, AAAI 2020, Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks, ECCV 2020)
+4. Fine-tuning CLIP using existing image-text paired human-scored datasets.([Thumb](https://aclanthology.org/2022.naacl-main.254/))

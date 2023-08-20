@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " MNIST"
+title:  "MNIST"
 date:   2022-04-08 22:21:59 +00:00
 image: /images/mnist.png
 categories: Intel

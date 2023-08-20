@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "SLAM"
+title:  "Swarm of micro flying robotsin the wild"
 date:   2018-12-05 21:21:53 +00:00
-image: /images/cupdice.png
+image: /images/640.png
 categories: CMU
 course: "16-741 Mechanics of Manipulation"
 author: "Leo Keselman"

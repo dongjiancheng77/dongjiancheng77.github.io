@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  " Depth Image Enhancement"
-date:   2015-08-06 22:21:59 +00:00
-image: /images/haowei.png
+date:   2022-05-08 22:21:59 +00:00
+image: /images/mnist.png
 categories: Intel
-author: "Leo Keselman"
+author: "Dong"
 subtitle: "Hand Tracking Demo"
-patent: https://patents.google.com/patent/US9661298B2
+code: https://github.com/dongjiancheng77/mnist_2022
 ---
 Algorithms to filter, enhance and clean-up RGB-D data streams. 
 

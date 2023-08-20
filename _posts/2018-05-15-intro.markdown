@@ -7,6 +7,4 @@ categories: CMU
 paper: https://www.science.org/doi/10.1126/scirobotics.abm5954
 code: https://github.com/ZJU-FAST-Lab/EGO-Planner-v2
 ---
-Using pre-trained neural networks to improve fine grained recognition via style transfer. 
-
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+*Swarm of Micro Flying Robots in the Wild* is the world's first comprehensive demonstration of a highly autonomous drone swarm in a natural environment. It primarily focuses on the trajectory planning and deployment of the swarm of micro flying robots.

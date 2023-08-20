@@ -7,5 +7,7 @@ categories: Intel
 
 ---
 To be update
+
 The project has advanced to the finals of the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.
+
 I provided the primary technical support for this project.

@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Intel RealSense 400"
-date:   2016-08-15 21:21:53 +00:00
-image: /images/rs400.jpg
+title:  "Pinyin"
+date:   2022-06-29 21:21:53 +00:00
+image: /images/lstm.jpg
 categories: Intel
 author: "Leo Keselman"
 subtitle: "Stereo Depth Camera"
 ---
-My responsibilities included system performance, components of the stereo algorithm on the imaging ASIC, and contributions to the design of laser projector pattern. 
+An intelligent Pinyin input method first employs the HMM and Viterbi algorithm to accomplish Pinyin input. Then, it employs rule-based methods to achieve improved Pinyin segmentation for instances involving incorrect order, ambiguity, abbreviations, and similar situations. Finally, a LSTM model is utilized to train on a small dataset, enabling automatic prediction of the next word.
 
 Additional details are in an [arXiv paper](https://arxiv.org/abs/1705.05548){:target="_blank"}.
 

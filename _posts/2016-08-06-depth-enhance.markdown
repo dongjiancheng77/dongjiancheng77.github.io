@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  " Depth Image Enhancement"
-date:   2022-05-08 22:21:59 +00:00
+title:  " MNIST"
+date:   2022-04-08 22:21:59 +00:00
 image: /images/mnist.png
 categories: Intel
 author: "Dong"
 subtitle: "Hand Tracking Demo"
 code: https://github.com/dongjiancheng77/mnist_2022
 ---
-Algorithms to filter, enhance and clean-up RGB-D data streams. 
+This is the machine learning algorithm I developed during my freshman year, focusing on the MNIST handwritten digit dataset. It encompasses an independently developed CNN.
 
  system's architecture, development and the implementation of necessary computer vision algorithms.
 <center>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Swarm of micro flying robotsin the wild"
-date:   2018-12-05 21:21:53 +00:00
-image: /images/640.png
+title:  "paper"
+date:   2023-12-05 21:21:53 +00:00
+image: /images/cs231a.png
 categories: CMU
 video: https://www.youtube.com/watch?v=kTuZnmyR4Kc
 paper: /pdfs/dicestack.pdf

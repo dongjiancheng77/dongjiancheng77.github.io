@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AI Yinzhi"
-date:   2023-09-22 21:21:53 +00:00
+date:   2022-12-27 22:21:59 +00:00
 image: /images/111.png
 categories: Intel
 

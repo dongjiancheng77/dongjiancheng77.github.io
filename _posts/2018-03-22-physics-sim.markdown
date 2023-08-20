@@ -2,7 +2,7 @@
 layout: post
 title:  "NJU EMUlator"
 date:   2022-12-27 22:21:59 +00:00
-image: /images/nwm.png
+image: /images/111.png
 categories: Intel
 
 ---

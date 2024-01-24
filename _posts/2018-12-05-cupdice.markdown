@@ -5,7 +5,7 @@ date:   2023-09-29 22:21:59 +00:00
 image: /images/wq.png
 categories: research
 author: "Leo Keselman"
-authors: "Jiangzhou Ju, Yufei Chen, **Jiancheng Dong**"
+authors: "Jiangzhou Ju, Yufei Chen, *Jiancheng Dong*"
 venue: "NJU NLP Group"
 ---
 

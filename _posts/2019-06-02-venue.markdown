@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "Data Science: Theory, Algorithms and Applications"
+title:  "HKU Data Science Summer Camp"
 date:   2023-07-07 22:21:59 +00:00
 image: /images/fig_arch.png
 categories: research
 author: "Leo Keselman"
 authors: "Yi Ma, Sebastian Morel-Balbi, Yue Xie, Man Chung Yue"
 venue: "HKU Institute of Data Science"
+code: https://github.com/Ma-Lab-Berkeley/CRATE
 ---
-A bibliometric/scientometric project. Our main two results are a method of assigning value to all venues in computer science and a method to organize them into distinct subfields, all without using citation data. The resulting venue scores can be used to rank universities' by scholarly output, and produce a responsive author-level metric.
+Professor Ma Yi shared with us how to study artificial intelligence from the perspective of cybernetics and focused on his paper at that time(White-Box Transformers via Sparse Rate Reduction).

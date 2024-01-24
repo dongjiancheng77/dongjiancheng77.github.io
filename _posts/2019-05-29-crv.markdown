@@ -7,6 +7,7 @@ categories: research
 author: "Leo Keselman"
 authors: "Shujian Huang, Xinyu Dai"
 venue: "NJU NLP Group"
+code: https://github.com/dongjiancheng77/nlpSummerCamp_caption_2022
 ---
 
 1. Revisiting several classic methods of image captioning (Show and Tell: A Neural Image Caption Generator, CVPR 2015, Meshed-Memory Transformer for Image Captioning, CVPR 2020)

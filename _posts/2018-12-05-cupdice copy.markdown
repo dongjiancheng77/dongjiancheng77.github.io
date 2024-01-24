@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Selection for Instruction Tuning"
-date:   2023-010-29 22:21:59 +00:00
+date:   2023-10-29 22:21:59 +00:00
 image: /images/wd.png
 categories: research
 author: "Leo Keselman"

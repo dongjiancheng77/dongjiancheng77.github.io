@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "paper"
-date:   2023-12-05 21:21:53 +00:00
-image: /images/cs231a.png
-categories: CMU
-video: https://www.youtube.com/watch?v=kTuZnmyR4Kc
-paper: /pdfs/dicestack.pdf
-code: https://github.com/leonidk/cupdice
+title:  "Multi-CoT Learning Based on VAE"
+date:   2023-09-29 22:21:59 +00:00
+image: /images/wq.png
+categories: research
+author: "Leo Keselman"
+authors: "Jiangzhou Ju, Yufei Chen, **Jiancheng Dong**"
+venue: "NJU NLP Group"
 ---
-With Hunter Goforth, we designed a manipulation task and solved it with imitation learning. 
 
-With [Chris Atkeson](http://www.cs.cmu.edu/~cga/) and Alex Spitzer. Using optimizers to match an observed trajectory.
+I collaborated with two senior colleagues on a project where we utilized the CVAE structure on the LLaMA model. We used latent variables to allow different answers to the same question to correspond to different inputs and latent variables, thereby alleviating conflicts. At the same time, we hoped that these latent variables could model the differences between various answers.

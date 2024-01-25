@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MoDS: Model-oriented Data Selection for Instruction Tuning"
-date:   2023-12-15 21:21:53 +00:00
+date:   2023-12-10 21:21:53 +00:00
 image: /images/mods.png
 categories: CMU
 paper: https://arxiv.org/pdf/2311.15653.pdf

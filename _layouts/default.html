@@ -27,10 +27,13 @@
               <h1>
                 Jiancheng Dong
               </h1>
-              <p>Greetings! I am a junior now at School of Artificial Intelligence, Nanjing University. Nowadays I'm an Intern at <a href="http://nlp.nju.edu.cn/homepage/">NJU NLP Group</a>, advised by <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a> and <a href="https://wuzhen247.github.io/">Prof. Zhen Wu</a>.
+              <p>Greetings! I am a Junior now at School of Artificial Intelligence, Nanjing University. Nowadays I work as Research Assistant at the Responsible and Reliable AI Lab (R2 Lab) in University of Illinois Chicago with <a href="https://lcheng.org/">Prof. Lu Cheng</a> and <a href="http://www.cs.emory.edu/~wjin30/">Prof. Wei Jin</a>.
               </p>
               <p> 
-                My research interest now mainly lies at Mathematical Reasoning and Lightweight Deployment of LLMs, especially in Data-Centric AI.
+              Previously, I was an Intern at NJU NLP Group, advised by  <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a> and <a href="https://wuzhen247.github.io/">Prof. Zhen Wu</a>.
+              </p>
+              <p> 
+              My research interests now lie at the intersection of Natural Language Processing and Data-Centric AI. I am currently focusing on data selection for alignment (Instruction tuning) and data packing. My long-term goal is to implement a systematic approach to Data Management for NLP.
               </p>
               <p style="text-align:center">
                 <a target="_blank" href="dongjc@smail.nju.edu.cn"> Email</a> &nbsp;/&nbsp;
@@ -111,7 +114,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Intel' %}
+          {% if cat == 'Projects' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -176,7 +179,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Intel' %}
+          {% if cat != 'research' and cat != 'Projects' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />

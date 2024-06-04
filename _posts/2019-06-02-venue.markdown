@@ -9,4 +9,4 @@ authors: "Yi Ma, Sebastian Morel-Balbi, Yue Xie, Man Chung Yue"
 venue: "HKU Institute of Data Science"
 code: https://github.com/Ma-Lab-Berkeley/CRATE
 ---
-Professor Ma Yi shared with us how to study artificial intelligence from the perspective of cybernetics and focused on his paper at that time(White-Box Transformers via Sparse Rate Reduction).
+Professor Ma Yi shared with us how to study artificial Projectsligence from the perspective of cybernetics and focused on his paper at that time(White-Box Transformers via Sparse Rate Reduction).

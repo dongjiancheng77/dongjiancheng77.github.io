@@ -3,9 +3,9 @@ layout: post
 title:  "Pinyin"
 date:   2022-06-29 21:21:53 +00:00
 image: /images/lstm.jpg
-categories: Intel
+categories: Projects
 author: "Leo Keselman"
 subtitle: "Stereo Depth Camera"
 code: https://github.com/dongjiancheng77/pinyin_2022
 ---
-An intelligent Pinyin input method first employs the HMM and Viterbi algorithm to accomplish Pinyin input. Then, it employs rule-based methods to achieve improved Pinyin segmentation for instances involving incorrect order, ambiguity, abbreviations, and similar situations. Finally, a LSTM model is utilized to train on a small dataset, enabling automatic prediction of the next word.
+An Projectsligent Pinyin input method first employs the HMM and Viterbi algorithm to accomplish Pinyin input. Then, it employs rule-based methods to achieve improved Pinyin segmentation for instances involving incorrect order, ambiguity, abbreviations, and similar situations. Finally, a LSTM model is utilized to train on a small dataset, enabling automatic prediction of the next word.

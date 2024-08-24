@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  "MoDS: Model-oriented Data Selection for Instruction Tuning"
+title:  "Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs"
 date:   2024-8-10 21:21:53 +00:00
 image: /images/intro.png
 categories: research
-paper: https://export.arxiv.org/abs/2408.09327
-# code: https://github.com/CASIA-LM/MoDS
+author: "Jiancheng Dong"
+authors: "Jiancheng Dong, Lei Jiang, Wei Jin, Lu Cheng"
+venue: "University of Illinois Chicago, Emory University"
+paper: https://arxiv.org/abs/2408.09327
 ---
 Packing for Supervised Fine-Tuning (SFT) in autoregressive models involves concatenating data points of varying lengths until reaching the designed maximum length to facilitate GPU processing. However, randomly concatenating data points and feeding them into an autoregressive transformer can lead to cross-contamination of sequences due to the significant difference in their subject matter. The mainstream approaches in SFT ensure that each token in the attention calculation phase only focuses on tokens within its own short sequence, without providing additional learning signals for the preceding context. To address these challenges, we introduce Threshold Filtering Packing (TFP), a method that selects samples with related context while maintaining sufficient diversity within the same pack.

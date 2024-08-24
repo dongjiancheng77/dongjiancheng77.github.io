@@ -4,7 +4,7 @@ title:  "Data Selection for Instruction Tuning"
 date:   2023-10-29 22:21:59 +00:00
 image: /images/wd.png
 categories: research
-author: "Leo Keselman"
+author: "Jiancheng Dong"
 authors: "*Jiancheng Dong*"
 venue: "NJU NLP Group"
 ---

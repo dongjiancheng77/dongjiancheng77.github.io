@@ -6,5 +6,4 @@ image: /images/j.png
 categories: Projects
 code: https://github.com/dongjiancheng77/nanoMusic_2023
 ---
-This is an automatic composition framework based on large language models. Our project utilizes GPT and RWKV, combined with the REMI representation that better reflects the structural characteristics of musical scores. We have developed a lightweight and user-friendly framework for auto-composition pre-training and fine-tuning, where data processing and training tasks can be completed with just two lines of commands. 
-*We won the first place in the 2023 Yifangda Asset Cup*
+Our project, an automatic composition framework utilizing GPT and RWKV with the REMI representation for musical scores, features a lightweight, user-friendly interface for pre-training and fine-tuning that requires just two command lines, earning us *first place in the 2023 Yifangda Asset Cup*.

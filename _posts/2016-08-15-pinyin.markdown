@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Pinyin"
+date:   2022-06-29 21:21:53 +00:00
+image: /images/lstm.jpg
+categories: Projects
+author: "Leo Keselman"
+subtitle: "Stereo Depth Camera"
+code: https://github.com/dongjiancheng77/pinyin_2022
+---
+I created a Projectsligent Pinyin input method that uses the HMM and Viterbi algorithm for input, employs rule-based techniques for enhanced segmentation in complex cases, and incorporates an LSTM model for automatic next-word prediction based on a small dataset.

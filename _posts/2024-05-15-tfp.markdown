@@ -9,4 +9,4 @@ authors: "Jiancheng Dong, Lei Jiang, Wei Jin, Lu Cheng"
 venue: "University of Illinois Chicago, Emory University"
 arxiv: https://arxiv.org/abs/2408.09327
 ---
-Packing for Supervised Fine-Tuning (SFT) in autoregressive models involves concatenating data points of varying lengths until reaching the designed maximum length to facilitate GPU processing. However, randomly concatenating data points and feeding them into an autoregressive transformer can lead to cross-contamination of sequences due to the significant difference in their subject matter. The mainstream approaches in SFT ensure that each token in the attention calculation phase only focuses on tokens within its own short sequence, without providing additional learning signals for the preceding context. To address these challenges, we introduce Threshold Filtering Packing (TFP), a method that selects samples with related context while maintaining sufficient diversity within the same pack.
+I developed Threshold Filtering Packing (TFP) for Packing in SFT, which strategically selects contextually related samples while ensuring diversity to prevent sequence cross-contamination during GPU processing.

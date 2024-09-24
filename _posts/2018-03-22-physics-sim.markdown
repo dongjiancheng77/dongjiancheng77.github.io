@@ -7,4 +7,4 @@ paper: /pdfs/LLM Knowledge Service Retrieval and Management System.pdf
 categories: Projects
 
 ---
-The project has advanced to the finals of the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition.I provided the primary technical support for this project.
+I provided primary technical support for our project, which advanced to the *finals of the 9th China International College Students' "Internet+" Innovation and Entrepreneurship Competition*.

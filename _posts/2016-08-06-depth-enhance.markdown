@@ -8,9 +8,4 @@ author: "Dong"
 subtitle: "Hand Tracking Demo"
 code: https://github.com/dongjiancheng77/mnist_2022
 ---
-This is the machine learning algorithm I developed during my freshman year, focusing on the MNIST handwritten digit dataset. It encompasses an independently developed CNN.
-
- system's architecture, development and the implementation of necessary computer vision algorithms.
-<center>
-<iframe src="http://www.youtube.com/embed/iywCOqZYVXg" frameborder="0" height="315" width="560"></iframe>
-</center>
+I developed a machine learning algorithm during my freshman year that includes an independently created CNN, focusing on the MNIST handwritten digit dataset.

@@ -6,4 +6,4 @@ image: /images/nwm.png
 categories: Projects
 code: https://github.com/dongjiancheng77/NEMU_2023
 ---
-I developed a RISC-V 32-bit simulator called NEMU (Professor Yanyan Jiang's PA). I also voluntarily enrolled in Professor Yanyan Jiang's Operating Systems course.
+I developed a RISC-V 32-bit simulator called NEMU as part of Professor Yanyan Jiang's PA and voluntarily enrolled in his Operating Systems course.

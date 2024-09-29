@@ -14,3 +14,7 @@ Working with Stan Melax & Sterling Orsten at Projects, I worked on the developme
 <center>
 <iframe src="http://www.youtube.com/embed/cB97k4V52u0?rel=0" allowfullscreen="" frameborder="0" height="360" width="480"></iframe>
 </center>
+# 1. Revisiting several classic methods of image captioning (Show and Tell: A Neural Image Caption Generator, CVPR 2015, Meshed-Memory Transformer for Image Captioning, CVPR 2020)
+# 2. Investigating image description evaluation metrics（CLIPScore: A Reference-free Evaluation Metric for Image Captioning, EMNLP 2021， UMIC: An Unreferenced Metric for Image Captioning via Contrastive Learning, ACL 2021）
+# 3. Exploring the application of cross-modal pretraining in image captioning（Unified Vision-Language Pre-Training for Image Captioning and VQA, AAAI 2020, Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks, ECCV 2020)
+# 4. Fine-tuning CLIP using existing image-text paired human-scored datasets.([Thumb](https://aclanthology.org/2022.naacl-main.254/))

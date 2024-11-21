@@ -1,10 +1,10 @@
 ---
-layout: post
-title:  "MoDS: Model-oriented Data Selection for Instruction Tuning"
+https://github.com/tianyi-lab/Cherry_LLMlayout: post
+title:  "From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning"
 date:   2023-12-10 21:21:53 +00:00
-image: /images/mods.png
+image: /images/method_overview.png
 categories: Talks
-paper: https://arxiv.org/pdf/2311.15653.pdf
-code: https://github.com/CASIA-LM/MoDS
+paper: https://arxiv.org/abs/2308.12032
+code: https://github.com/tianyi-lab/Cherry_LLM
 ---
-MoDS is a Model-oriented Data Selection for Instruction Tuning. The core idea is to filter the original dataset from three aspects: data quality, coverage range, and necessity, ultimately obtaining high-quality datasets for different models. Compared to automatic identification methods, better results can be achieved with less data.
+The Instruction-Following Difficulty (IFD) metric, emerges as a pivotal metric to identify discrepancies between a model's expected responses and its intrinsic generation capability. Through the application of IFD, cherry samples can be pinpointed, leading to a marked uptick in model training efficiency. Empirical validations on datasets like Alpaca and WizardLM underpin our findings; with a mere 10% of original data input, our strategy showcases improved results.

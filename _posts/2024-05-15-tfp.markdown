@@ -6,7 +6,7 @@ image: /images/intro.png
 categories: research
 author: "Jiancheng Dong"
 authors: "<strong>Jiancheng Dong</strong>, Lei Jiang, Wei Jin, Lu Cheng"
-venue: "University of Illinois Chicago, Emory University"
+venue: "NAACL 2025"
 arxiv: https://arxiv.org/abs/2408.09327
 ---
 I developed Threshold Filtering Packing (TFP) for Packing in SFT, which strategically selects contextually related samples while ensuring diversity to prevent sequence cross-contamination during GPU processing.

@@ -9,4 +9,4 @@ authors: "<strong>Jiancheng Dong</strong>, Pengyue Jia, Derong Xu, Jiawei Cheng,
 venue: "In submission"
 arxiv:
 ---
-I developed **Threshold Filtering Packing (TFP)** for supervised fine-tuning, a packing strategy that groups relevant but diverse samples within each training pack. The method is designed to reduce cross-sample interference during packed training and improve training efficiency and  data organization, which is especially relevant to long-sequence, efficiency-sensitive large-model training.
+I developed  **DiVA-Former** , a lightweight framework for compressing long structured contexts in LLMs. It uses visual tokens as dynamic queries to distill lengthy serialized table text into compact digest vectors, reducing context length and computational burden while preserving both structural cues and  fine-grained textual information.

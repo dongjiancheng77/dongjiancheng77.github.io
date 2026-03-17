@@ -37,7 +37,7 @@
                 Previously, I received my bachelor's degree from the School of Artificial Intelligence at Nanjing University. During my undergraduate studies, I worked as a Research Intern at the Responsible and Reliable AI Lab at the University of Illinois Chicago under the supervision of <a href="https://lcheng.org/">Prof. Lu Cheng</a> and <a href="http://www.cs.emory.edu/~wjin30/">Prof. Wei Jin</a>. Before that, I was also an intern at the NJU NLP Group, advised by <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a> and <a href="https://wuzhen247.github.io/">Prof. Zhen Wu</a>.
               </p>
               <p style="text-align:center">
-                <a target="_blank" href="jiancdong2-c@my.cityu.edu.hk"> Email</a> &nbsp;/&nbsp;
+                <a target="_blank" href="mailto:jiancdong2-c@my.cityu.edu.hk">Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/dongjiancheng77">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://dongjiancheng77.github.io/pdfs/Jiancheng_Dong_cv.pdf">CV</a> &nbsp;/&nbsp;
                 <!-- <a href="https://www.linkedin.com/"> LinkedIn </a> -->
@@ -97,134 +97,43 @@
           {% endfor %}
           {% endfor %}
         </table>
-        <br>
-        <br>
-        <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<br>
+<br>
+<br>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  <tr>
+    <td style="padding:2.5%;width:100%;vertical-align:middle">
+      <h2>Internship</h2>
+      <p>These are my internship experiences.</p>
+    </td>
+  </tr>
+</table>
 
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat == 'Projects' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
-        <br>
-        <br>
-        <br>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
-            <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Talks</h2>
-              <p> These are some talks I have completed. 
-              </p>
-            </td>
-          </tr>
-        </table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-          {% for post in site.posts %}
-          {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'Projects' %}
-          <tr>
-            <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-              <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
-            </td>
-            <td style="padding:2.5%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
-              {{ post.date | date: "%Y-%m-%d" }}
-
-              <br>
-              {% if post.website %}
-              <a href="{{post.website}}">website</a> /
-              {% endif %}
-              {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
-              {% endif %}
-              {% if post.patent %}
-              <a href="{{post.patent}}">patent</a> /
-              {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
-              {% endif %}
-              {% if post.patent3 %}
-              <a href="{{post.patent3}}">patent #3</a> /
-              {% endif %}
-              {% if post.video %}
-              <a href="{{post.video}}">video</a> /
-              {% endif %}
-              {% if post.video2 %}
-              <a href="{{post.video2}}">video #2</a> /
-              {% endif %}
-              {% if post.code %}
-              <a href="{{post.code}}">code</a> /
-              {% endif %}
-              {% if post.poster %}
-              <a href="{{post.poster}}">poster</a> /
-              {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
-              <p></p>
-              {{ post.excerpt }}
-            </td>
-          </tr>
-          {% endif %}
-          {% endfor %}
-          {% endfor %}
-        </table>
-
+  {% for post in site.posts %}
+  {% for cat in post.categories %}
+  {% if cat == 'internship' %}
+  <tr>
+    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
+      <img src="{{post.image}}" alt="internship image" style="width:auto; height:auto; max-width:100%;" />
+    </td>
+    <td style="padding:2.5%;width:75%;vertical-align:middle">
+      <h3>{{post.title}}</h3>
+      <br>
+      {{post.role}}
+      <br>
+      <em>{{post.duration}}</em>
+      <br>
+      {{post.organization}}
+      <p></p>
+      {{ post.excerpt }}
+    </td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+  {% endfor %}
+</table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:0px">

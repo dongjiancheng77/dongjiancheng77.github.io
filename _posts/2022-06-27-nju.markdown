@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Nanjing University, Natural Language Processing Group"
+date:   2023-04-01 00:00:00 +00:00
+duration: "4/2023 -- 1/2024"
+role: "Research Intern"
+image: /images/nju.png
+categories: internship
+organization: "Advisors: Xinyu Dai and Zhen Wu"
+---
+Explored **data selection** strategies for instruction tuning, aiming to optimize sample relevance and diversity while conducting preliminary experiments to identify methods for improving data efficiency.

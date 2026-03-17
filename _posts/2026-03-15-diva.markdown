@@ -5,7 +5,7 @@ date:   2026-3-10 21:21:53 +00:00
 image: /images/diva.png
 categories: research
 author: "Jiancheng Dong"
-authors: "<strong>Jiancheng Dong</strong>, Pengyue Jia, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao"
+authors: "<u><strong>Jiancheng Dong</strong></u>, Pengyue Jia, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao"
 venue: "In submission"
 arxiv:
 ---

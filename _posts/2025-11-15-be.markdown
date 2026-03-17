@@ -5,8 +5,8 @@ date:   2025-11-10 21:21:53 +00:00
 image: /images/be.png
 categories: research
 author: "Jiancheng Dong"
-authors: "<strong>Jiancheng Dong</strong>, Pengyue Jia, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao"
+authors: "<u><strong>Jiancheng Dong</strong></u>, Pengyue Jia, Jingyu Peng, Maolin Wang, Yuhao Wang, Lixin Su, Xin Sun, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao"
 venue: "In submission"
 arxiv: https://arxiv.org/abs/2511.23271
 ---
-I developed  **Behavior-Equivalent Token (BE-Token)** , a context-compression method that learns a single token to replace long system prompts while preserving their behavioral effect on downstream tasks. This significantly reduces  prompt overhead , improves  inference efficiency, and frees up more context budget for user inputs in LLM applications.
+I developed  **Behavior-Equivalent Token**, a context-compression method that learns a single token to replace long system prompts while preserving their behavioral effect on downstream tasks. This significantly reduces  prompt overhead , improves  inference efficiency, and frees up more context budget for user inputs in LLM applications.

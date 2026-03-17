@@ -1,37 +1,11 @@
-<br>
-<br>
-<br>
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-  <tr>
-    <td style="padding:2.5%;width:100%;vertical-align:middle">
-      <h2>Internship</h2>
-      <p>These are my internship experiences.</p>
-    </td>
-  </tr>
-</table>
-
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-
-  {% for post in site.posts %}
-  {% for cat in post.categories %}
-  {% if cat == 'internship' %}
-  <tr>
-    <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-      <img src="{{post.image}}" alt="internship image" style="width:auto; height:auto; max-width:100%;" />
-    </td>
-    <td style="padding:2.5%;width:75%;vertical-align:middle">
-      <h3>{{post.title}}</h3>
-      <br>
-      {{post.role}}
-      <br>
-      <em>{{post.duration}}</em>
-      <br>
-      {{post.organization}}
-      <p></p>
-      {{ post.excerpt }}
-    </td>
-  </tr>
-  {% endif %}
-  {% endfor %}
-  {% endfor %}
-</table>
+---
+layout: post
+title:  "Baidu Inc., Search Science"
+date:   2025-05-01 00:00:00 +00:00
+duration: "5/2025 -- 2/2026"
+role: "Research Intern"
+image: /images/logo.jpeg
+categories: internship
+organization: "Advisors: Lixin Su, Shuaiqiang Wang, and Dawei Yin"
+---
+Focused on **context compression**; developed *Behavior-Equivalent Token* to equivalently replace complex long prompts, retaining 98% performance at compression ratios up to *3000×*. Expanded research to **visual-text compression**; leveraged the complementarity between textual and visual modalities to develop *DiVA-Former*, which improves upon the pure-text baseline by 23.9%.

@@ -6,6 +6,6 @@ duration: "4/2023 -- 1/2024"
 role: "Research Intern"
 image: /images/nju.png
 categories: internship
-organization: "Advisors: <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a> and <a href="https://wuzhen247.github.io/">Prof. Zhen Wu</a>"
+organization: 'Advisors: <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a> and <a href="https://wuzhen247.github.io/">Prof. Zhen Wu</a>'
 ---
 Explored **data selection** strategies for instruction tuning, aiming to optimize sample relevance and diversity while conducting preliminary experiments to identify methods for improving data efficiency.

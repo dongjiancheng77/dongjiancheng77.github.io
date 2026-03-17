@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Threshold Filtering Packing for Supervised Fine-Tuning: Training Related Samples within Packs"
-date:   2024-8-10 21:21:53 +00:00
+date:   2026-3-10 21:21:53 +00:00
 image: /images/intro.png
 categories: research
 author: "Jiancheng Dong"
 authors: "<strong>Jiancheng Dong</strong>, Pengyue Jia, Derong Xu, Jiawei Cheng, Jingyu Peng, Chao Zhang, Bowen Liu, Xin Sun, Lixin Su, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao"
 venue: "In submission"
-arxiv: 
+arxiv:
 ---
 I developed **Threshold Filtering Packing (TFP)** for supervised fine-tuning, a packing strategy that groups relevant but diverse samples within each training pack. The method is designed to reduce cross-sample interference during packed training and improve training efficiency and  data organization, which is especially relevant to long-sequence, efficiency-sensitive large-model training.
